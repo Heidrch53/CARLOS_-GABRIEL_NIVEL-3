@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dqrpqyqj557dd"
-path="res://.godot/imported/12.png-3f6f43fc474af4365eadb503d1151664.ctex"
+uid="uid://c525vy8qnvda6"
+path="res://.godot/imported/12.png-07ec0bf37f84f0c0e86c16983a2c1c18.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/pirate_bomb/1_player_bomb_guy/2_run/12.png"
-dest_files=["res://.godot/imported/12.png-3f6f43fc474af4365eadb503d1151664.ctex"]
+source_file="res://assets/sprites/pirate_bomb/1_player_bomb_guy/11_door_out/12.png"
+dest_files=["res://.godot/imported/12.png-07ec0bf37f84f0c0e86c16983a2c1c18.ctex"]
 
 [params]
 
